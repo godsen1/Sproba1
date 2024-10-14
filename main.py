@@ -55,3 +55,6 @@ class Knyga:
         return vik
 knyha = Knyga("Art of war", "Sun' Tzu", -500)
 print(f"Vik knygy --- {knyha.zagolovok}|{knyha.what_year()}")
+
+print("hello")
+print("Testing")
