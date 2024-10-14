@@ -58,4 +58,5 @@ print(f"Vik knygy --- {knyha.zagolovok}|{knyha.what_year()}")
 
 print("hello")
 print("Testing")
+ print("12345")
 
